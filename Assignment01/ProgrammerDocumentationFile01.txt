@@ -1,0 +1,20 @@
+
+Programmer Name:
+ Luis Mejia
+ 
+Assignment Start:
+ 01/09/2022 8:00 PM PST
+ 
+Assignment Completion:
+ 01/10/2022 2:05 PM PST
+ 
+Total Hours for Assignment:
+ About 3 hours
+ 
+Comments:
+ I had planned to complete assignment 01 by the early bird deadline but I had a 
+ couple of distractions come up. I liked this assignment in that I felt that it
+ helped transition from C++ to Java(helped break into Java). I also liked how it 
+ made me learn how to format properly using the standard output object method 
+ printf. Although not specified, I also went ahead and made use of the GUI/ 
+ JOptionPane class to collect input from the user.

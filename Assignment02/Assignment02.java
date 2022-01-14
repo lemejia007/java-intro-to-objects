@@ -93,6 +93,9 @@ public class Assignment02 {
 			counter++;
 				
 	  } 
+
+		// Close the Scanner object
+		scan.close();
 			
 		// Find the maximum value inside of userInput Array
 		max = findMax(userInput);

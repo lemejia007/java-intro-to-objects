@@ -1,0 +1,20 @@
+
+Programmer Name:
+ Luis Mejia
+ 
+Assignment Start:
+ 01/13/2022 2:00 PM PST
+ 
+Assignment Completion:
+ 01/13/2022 5:35 PM PST
+ 
+Total Hours for Assignment:
+  3 hours and 35 minutes
+ 
+Comments:
+ This assignment was pretty straight forward. Although straight forward, in I 
+ order to implement user input validations, I still found myself having to 
+ spend some time reading more about the Scanner class and its methods. Something 
+ I am glad to do as I became that much more familiar with the Scanner class. 
+ Although not specified, I also went ahead and used function declarations and loops.
+ 

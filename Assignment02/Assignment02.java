@@ -70,7 +70,7 @@ public class Assignment02 {
 		// Variable declarations
 		int max,         // Holds maximum value
 		    min;         // Holds minimum value
-		int counter = 1; // Holds 
+		int counter = 1; // Counter variable
 		
 		// Loop through userInput Array
 		while (counter <= userInput.length) { 

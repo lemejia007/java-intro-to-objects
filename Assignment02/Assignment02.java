@@ -16,8 +16,8 @@ public class Assignment02 {
 	
 	/*
 	 *  Function name: findMax();
-	 *  Description:   Function findMax() takes an array and steps through it to 
-	 *  							 find a maximum value.
+	 *  Description:   Function findMax() takes an array as an argument and steps 
+	 * 								 through it to find a maximum value and returns it.
 	 */
 	public static int findMax(int[] userInput) {
 		
@@ -38,23 +38,23 @@ public class Assignment02 {
 	
 	/*
 	 *  Function name: findMin();
-	 *  Description:   Function findMin() takes an array and steps through it to 
-	 *  							 find a minimum value.
+	 *  Description:   Function findMin() takes an array as an argument and steps 
+	 * 								 through it to find a minimum value and returns it.
 	 */
 	public static int findMin(int[] userInput) {
 		
-		// Initialize maximum value
+		// Initialize minimum value
 		int minValue = userInput[0];
 		
 		for (int i = 1; i < userInput.length; i++) {
 			
-			// Step through the array and find a maximum value
+			// Step through the array and find a minimum value
 			if (userInput[i] < minValue) {
 				minValue = userInput[i];
 			}
 		}
 		
-		// Return maxValue
+		// Return minValue
 		return minValue;
 	}
 

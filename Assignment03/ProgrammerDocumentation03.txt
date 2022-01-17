@@ -1,0 +1,25 @@
+
+Programmer Name:
+ Luis Mejia
+ 
+Assignment Start:
+ 01/15/2022 7:00 PM PST
+ 
+Assignment Completion:
+ 01/15/2022 10:10 PM PST
+ 
+Total Hours for Assignment:
+  3 hours and 10 minutes
+ 
+Comments:
+ I actually had slightly more problems than expected doing this assignment. I 
+ was under the impression that I could complete this assignment around an hour. 
+ Although very possible with less validation and if doubles were used rather 
+ than BigDecimal. I first ran into trouble figuring out how to properly validate 
+ for an integer before validating for an integer between MIN and MAX (in this 
+ case 1 and 45). After validating properly, I then had trouble properly processing 
+ and out putting user input as BigDecimal. I guess I would have had less trouble 
+ if I had previously worked with BigDecimals but I actually had to familiarize 
+ myself on how it worked as I attempted to complete this assignment. 
+ 
+ 

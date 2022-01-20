@@ -1,0 +1,22 @@
+
+Programmer Name:
+ Luis Mejia
+ 
+Assignment Start:
+ 01/19/2022 4:00 PM PST
+ 
+Assignment Completion:
+ 01/19/2022 6:30 PM PST
+ 
+Total Hours for Assignment:
+  2 hours and 30 minutes
+ 
+Comments:
+ I did not find method isPerfect() to be too difficult to declare as stack 
+ overflow was very helpful in explaining possible ways to implement similar 
+ methods that look for perfect numbers. Validation for this assignment was 
+ similar to the validation I carried out for Assignment03 so validation was 
+ mostly straight forward. I did however have slight difficulty thinking of a way 
+ to make use of method isPerfect's return to display all perfect numbers from 
+ MIN and maxInteger. After some thinking it was obvious that a loop is perfect.
+ 

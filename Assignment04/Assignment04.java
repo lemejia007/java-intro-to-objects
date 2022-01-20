@@ -74,9 +74,10 @@ public class Assignment04 {
 			
 		// Validate user input to make sure input is an integer between MIN and 
 		// maxInteger
-		while ((maxInteger < MIN) || (maxInteger > maxInteger)) {
+		while ((maxInteger < MIN) || (maxInteger > MAX)) {
 		  // User did not enter an integer between MIN and maxInteger. Re prompt 
 			System.out.printf("%nEnter an integer between %d and %d%n", MIN, MAX);
+			// Store new value for maxInteger
 			maxInteger = scan.nextInt(); 
 		} 
 		

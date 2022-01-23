@@ -1,0 +1,19 @@
+
+Programmer Name:
+ Luis Mejia
+ 
+Assignment Start:
+ 01/22/2022 3:00 PM PST
+ 
+Assignment Completion:
+ 01/22/2022 6:30 PM PST
+ 
+Total Hours for Assignment:
+  3 hours and 30 minutes
+ 
+Comments:
+ This assignment was not too difficult per say but it did take slightly longer 
+ than expected to complete. Declaring methods took most of my time followed by 
+ formatting. Writing a method for standard deviation (population and sample) 
+ took slightly more thinking but was mostly straight forward. 
+ 

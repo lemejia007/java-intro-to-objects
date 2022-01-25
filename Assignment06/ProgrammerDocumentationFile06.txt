@@ -1,0 +1,20 @@
+
+Programmer Name:
+ Luis Mejia
+ 
+Assignment Start:
+ 01/23/2022 8:00 PM PST
+ 
+Assignment Completion:
+ 01/24/2022 3:15 PM PST
+ 
+Total Hours for Assignment:
+  4 hours and 10 minutes
+ 
+Comments:
+ I liked this assignment. It was a good introductory to working with classes in  
+ Java. Besides taking the time to try and write readable code, I spent more time 
+ than expected validating. It took some time to get the buffer to read the 
+ intended values. Overall a straight forward and simple program to implement on 
+ its own minus the validation.
+ 

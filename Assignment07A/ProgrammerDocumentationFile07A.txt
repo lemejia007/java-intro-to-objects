@@ -1,0 +1,20 @@
+
+Programmer Name:
+ Luis Mejia
+ 
+Assignment Start:
+ 01/27/2022 1:00 PM PST
+ 
+Assignment Completion:
+ 01/27/2022 2:15 PM PST
+ 
+Total Hours for Assignment:
+  1 hours and 15 minutes
+ 
+Comments:
+ This assignment gave a nice, straight forward, direction on how enums work. I 
+ took a couple of minutes to find average times for traffic signal cycles. I 
+ decided to pick values for seconds on averages I read on and from personal 
+ experience. Declaring each enum constant with a constructor all in the same file 
+ threw me off for a little but did not take too long to understand the logic. 
+ 

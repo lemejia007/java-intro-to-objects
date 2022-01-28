@@ -1,0 +1,23 @@
+
+Programmer Name:
+ Luis Mejia
+ 
+Assignment Start:
+ 01/27/2022 3:00 PM PST
+ 
+Assignment Completion:
+ 01/27/2022 4:30 PM PST
+ 
+Total Hours for Assignment:
+   hours and  minutes
+ 
+Comments:
+ Luckily, I had already dabbled with class BigDecimal before in Assignment03 so 
+ for this assignment, it was not too difficult converting the balance instance 
+ variable from a double to a BigDecimal and proceeding to do all calculations 
+ and operations as a BigDecimal. I did however have to touch up slightly on 
+ BigDecimal's negate() and compareTo() methods. Surprisingly, I had to initialize 
+ balance to BigDecimal.ZERO for a new Account object to have a balance of at least 
+ 0.00 instead of null when and if the constructor is passed negative values for 
+ balance.
+ 

@@ -12,10 +12,10 @@ Total Hours for Assignment:
   3 hours and 35 minutes
  
 Comments:
- This assignment was pretty straight forward. Although straight forward, in I 
- order to implement user input validations, I still found myself having to 
- spend some time reading more about the Scanner class and its methods. Something 
- I am glad to do as I became that much more familiar with the Scanner class. 
+ This assignment was pretty straight forward. Although straight forward, in 
+ order to implement user input validations, I found myself having to 
+ spend some time reading more on the Scanner class and its methods. Something 
+ I was glad to do as I became that much more familiar with class class Scanner. 
  Although not specified, I also went ahead and used function declarations, loops, 
  and an Array.
  

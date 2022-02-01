@@ -1,0 +1,19 @@
+
+Programmer Name:
+ Luis Mejia
+ 
+Assignment Start:
+ 01/31/2022 6:00 PM PST
+ 
+Assignment Completion:
+ 01/31/2022 9:30 PM PST
+ 
+Total Hours for Assignment:
+ 3 hours and 30 minutes
+ 
+Comments:
+ Very fun and interactive assignment. I think I spent more time thinking of a 
+ simple real-world "is-a" relationship than expected as there are so many! There 
+ is definitely room for improvement and a whole lot more that could have been 
+ done to both class Parrot and Lovebird but enough to demonstrate inheritance. 
+ 

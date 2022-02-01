@@ -1,0 +1,43 @@
+
+// - Ways that inheritance promotes software reusability, decreases time 
+// programming, and helps reduce the number of errors in software.
+
+// - Pro's and con's of using protected member versus private member access in 
+//   superclasses.
+
+    Inheritance establishes an is-a relationship between the parent class and the 
+child class. An object of the child class is considered to be an object of the 
+parent class. Having this relationship among classes in computer programming 
+promotes software reusability, decreases time programming, and it also helps 
+reduce the number of errors in software. First, inheritance promotes software 
+reusability by allowing only one implementation of the parent class and allowing 
+any subclasses the same capabilities. This means that only the extends keyword 
+is needed to indicate an is-a relationship between two classes and allowing the 
+subclass software reusability of the parent class instead of having to 
+copy-and-paste all of the parent class code into the child class (and in any 
+other classes that might need to use the same capabilities). This brings us to 
+our second point about how using inheritance, time programming is decreased. Why 
+try to copy and paste multiple times the same code when you can simply type 
+extends in the child class signature and acquire the same effect minus the 
+headache of having to worry about re-implementing. Not only is this time 
+consuming but it also helps reduce the number of errors in software because you 
+would only have to test and debug once instead of having to check for bugs and 
+debugging if any are found after doing the copy-and-paste method.
+    Another useful feature is the use of protected members which act as a middle 
+ground between private and public members. The use of protected members in a 
+class allows the members in the same class, subclasses, and members in other 
+classes in the same package access to the protected members. This allows more 
+restriction than public members yet more flexibility than private members. In 
+some cases but more rarely will the use of protected members trump the use of 
+private members. This is because the use of private members allows for data 
+hiding and consistency in computer programming which is critical to good 
+software engineering. For example, if a superclass’s instance variables are 
+declared protected instead of private, members in subclasses and members of 
+other classes in the same package can set an inherited variable value directly 
+without the need of a set method which is essentially doing so without control. 
+Furthermore, subclass methods are more likely to be written to depend on the 
+superclass’s data implementation instead of relying on the superclass’s 
+non-private methods for controlled access to the superclass’s data. Lastly, 
+if using protected members over private members, the protected members become 
+visible to classes within the same package which is not always a good thing 
+since data hiding allows for strong software as mentioned before.

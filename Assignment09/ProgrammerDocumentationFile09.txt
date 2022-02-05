@@ -1,0 +1,21 @@
+
+Programmer Name:
+ Luis Mejia
+ 
+Assignment Start:
+ 02/04/2022 6:00 PM PST
+ 
+Assignment Completion:
+ 02/04/2022 10:30 AM PST
+ 
+Total Hours for Assignment:
+ 4 hours and 30 minutes
+ 
+Comments:
+ I very much enjoyed this assignment. I began with only the theory knowledge 
+ from the chapter reading but I gradually was able to piece it all together and 
+ made it work. I think the hardest part was coming up with an interface or a 
+ common functionality that two different classes could share. This assignment 
+ gave me an "Ah-Ha" moment and definitely helped understand polymorphism that 
+ that much better. 
+ 

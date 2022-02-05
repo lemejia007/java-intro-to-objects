@@ -1,0 +1,29 @@
+  As other classes, abstract classes, through inheritance, also promote software 
+reusability, they help reduce time spent programming, and they help reduce 
+errors in software. Software reusability is a key component to good software 
+development. Using abstract classes accomplishes software reusability by 
+enabling programmers to program in a more general sense. Applying things more 
+generally (in this case in an abstract class), eliminates the need to implement 
+specifics and programmers can rather worry about specifics when and where it 
+matters (in this case in a more specific/concrete class). In addition, abstract 
+classes also help reduce time programming. In fact, time reduced programming can 
+be thought of almost as a byproduct of software reusability. Abstract classes 
+reduce the amount of code needed to be re-written since it can be shared with its 
+subclasses. It makes much more sense to simply reusing software rather than having 
+to spend the time rewriting it and having to go through the same thought process 
+more than once in order to write the same piece of software. Furthermore, abstract 
+classes help reduce the number of errors in software through software reusability. 
+If you test, debug, and confirm that some piece of software is good to go and ready 
+for use, why not just reuse it and avoid future possible errors by having to re 
+implement it?
+  Interfaces are similar to abstract classes in that they both process objects 
+polymorphically. This means that they both process objects and have them behave in 
+a manner appropriate to them as an object rather than processing and having them 
+behave based on their type (of course as long as the objects are part of the same 
+class hierarchy or implement the same interface). Interfaces allow common 
+functionality. However, this common functionality is meant to be shared with classes 
+who are unrelated. Interfaces allow programmers to declare functionality but not 
+implement it. An abstract class is extended while an interface is implemented. Java 
+does not allow a class to extend more than one class but does allow a class to 
+implement multiple interfaces. In other words, Java does not allow for multiple class 
+inheritance but overcomes this problem through the use of interfaces.

@@ -10,14 +10,14 @@ public class Parrot {
 	private static final String  species        = "Parrot";
 	private              String  color;
 	private              String  name;
-	private              int     gender;
+	private              int     sex;
 	private              boolean canSpeak; 
 	
   // Four argument constructor
-	public Parrot(String color, String name, int gender, boolean canSpeak) {
+	public Parrot(String color, String name, int sex, boolean canSpeak) {
 		this.color    = color;
 		this.name     = name;
-		this.gender   = gender;
+		this.sex      = sex;
 		this.canSpeak = canSpeak;
 	}
 	
@@ -41,16 +41,16 @@ public class Parrot {
 		this.name = name;
 	}
 	
-	public String getGender() { // Method to retrieve gender
-		String gen = null;
+	public String getSex() { // Method to retrieve sex
+		String s = null;
 		
-		if (gender == 0) {
-			gen = "Female";
+		if (sex == 0) {
+			s = "Female";
 		} 
-		else if (gender == 1) {
-			gen = "male";
+		else if (sex == 1) {
+			s = "male";
 		}
-		return gen;
+		return s;
 	}
 	
 	public boolean canSpeak() { // Can the Parrot object talk?

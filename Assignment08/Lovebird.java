@@ -9,9 +9,9 @@ public class Lovebird extends Parrot {
 	private final String type = "Lovebird";
 	
 	// Three argument constructor
-	public Lovebird(String color, String name, int gender) {
+	public Lovebird(String color, String name, int sex) {
 		
-		super(color, name, gender, false); // Call super's constructor 
+		super(color, name, sex, false); // Call super's constructor 
 	}
 	
 	public String getType() { // Method to retrieve type
@@ -28,9 +28,9 @@ public class Lovebird extends Parrot {
 	// Override Object's toString() method 
 	@Override
 	public String toString() {
-		return String.format("%n%s: %s %n%s: %s %n%s: %s %n%s: %s %n%s: %s %n%s: %b", 
-				"Classification", getClassification(), "Species", getSpecies(), "Color", 
-				getColor(), "Name", getName(), "Gender", getGender(), "Can it speak?", 
+		return String.format("%n%s: %s %n%s: %s %n%s: %s %n%s: %s %n%s: %s %n%s: %s %n%s: %b", 
+				"Classification", getClassification(), "Species", getSpecies(), "Type", getType(), 
+				"Color", getColor(), "Name", getName(), "Sex", getSex(), "Can it speak?", 
 				canSpeak());
 	}
 	

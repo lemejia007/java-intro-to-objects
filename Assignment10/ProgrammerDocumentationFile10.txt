@@ -1,0 +1,17 @@
+
+Programmer Name:
+ Luis Mejia
+ 
+Assignment Start:
+ 02/06/2022 8:00 PM PST
+ 
+Assignment Completion:
+ 02/06/2022 9:00 PM PST
+ 
+Total Hours for Assignment:
+ Around an hour 
+ 
+Comments:
+ Mostly straight forward. I wanted to close my Scanner object in a finally block 
+ but I had trouble trying to have it work with the do...while loop. 
+ 

@@ -206,6 +206,7 @@ public class MainGame {
 				  } else if (combatMenu == 6) {
 				  	System.out.println("THANK YOU FOR PLAYING");
 				  	System.out.println("\n*****     End of program.     *****");
+						scan.close();
 				  	System.exit(0); // Exit program successfully
 				  } else {
 				  	System.out.println("\tInvalid input, try again.");

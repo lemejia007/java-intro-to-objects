@@ -1,0 +1,31 @@
+
+Programmer Name:
+ Luis Mejia
+ 
+Assignment Start:
+ 02/07/2022 11:00 AM PST
+ 
+Assignment Completion:
+ 02/10/2022 12:15 PM PST
+ 
+Total Hours for Assignment:
+ Approximately 23 hours (give or take three hours)
+ 
+Comments:
+ 	I decided to give myself a couple of days to complete this project. I knew 
+ that if I began the day of or even the day before, I would have burnt myself 
+ out. Giving myself time to complete the assignment allowed me start with a fresh 
+ set of eyes the next day. The hardest part of completing this text adventure 
+ game was actually starting! I was not sure where to start so I felt a little 
+ overwhelmed at first. I then decided to break the project down. I started with 
+ my interface, moving onto my parent class, then the two child classes, before 
+ finally moving onto main. 
+ 	I had so many ideas and so many ways I could have possibly built the game, 
+ that at times, I found myself stuck thinking, planning a new idea, and then 
+ having to eliminate the idea because I probably was not going to have enough 
+ time to actually implement it before the project due date. However, I 
+ prioritized having a more simple but working product than an unfinished one. 
+ Over all, I had a lot of fun with the project and coming up with endless ways 
+ to implement it. 
+ 
+ 
